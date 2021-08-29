@@ -1,0 +1,19 @@
+.gatsby-code-button-container {
+  margin-right: 1em;
+  margin-top: -20px;
+  top: 40px;
+}
+.gatsby-code-button {
+  color: white;
+  background-color: #0060df;
+  padding: 0.5em;
+  &:after {
+    all: unset;
+  }
+}
+
+
+.gatsby-code-button-toaster {
+}
+.gatsby-code-button-toaster-text {
+}

@@ -1,0 +1,15 @@
+@import "reset";
+@import url("https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700&family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  font-family: "Karla", "Ubuntu", sans-serif;
+}
+
+#gatsby-focus-wrapper {
+  height: 100vh !important;
+  flex-direction: column !important;
+  background-color: #e4f0f5 !important;
+  overflow-y: scroll !important;
+}
+
+@import "breakpoints";
